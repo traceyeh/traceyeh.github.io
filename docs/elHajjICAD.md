@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # This is my poster for ICAD 2021
 
 `Meaningul content coming soon...`
