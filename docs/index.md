@@ -1,3 +1,8 @@
+---
+layout: home
+title: Tracey El Hajj, PhD
+---
+
 # This is a temp Homepage
 
 `Meaningul content coming soon...`
