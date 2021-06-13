@@ -2,15 +2,19 @@
 layout: default
 ---
 
-# This is my poster for ICAD 2021
+# NETWORK SONIFICATION AND THE ALGORHYTHMICS OF EVERYDAY LIFE
 
-`Meaningul content coming soon...`
+## The sounds of seamless networks from the lab to the livingroom
+
+![Detektor](images/detektor1.jpeg)
 
 <!--Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
+
+`code?```
 
 - Bulleted
 - List
