@@ -17,7 +17,7 @@
 
   <header>
     <a href="">
-      <h1>Tracey El Hajj, PhD</h1>
-      <p>A space for works in progress</p>
+      <h1>{% if page.header %} {{ page.header }} | {% endif %}Tracey El Hajj, PhD</h1>
+      <p>{% if page.desc %} {{ page.desc }} | {% endif %}A space for works in progress</p>
     </a>
   </header>
