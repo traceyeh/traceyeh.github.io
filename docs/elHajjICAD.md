@@ -1,4 +1,5 @@
 ---
+title: NETWORK SONIFICATION AND THE ALGORHYTHMICS OF EVERYDAY LIFE
 layout: default
 ---
 
