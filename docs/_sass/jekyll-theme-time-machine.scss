@@ -25,6 +25,10 @@ code, pre {
   font-family: 'Monaco', 'Lucida Console', monospace;
 }
 
+ul{
+  list-style: none;
+}
+
 
 a ~ ul{
   display: none;
@@ -42,7 +46,7 @@ h1.title {
 
 .wrapper {
   width: 50%;
-  margin: -16% auto;
+  margin: -6% auto;
 }
 
 #container {
