@@ -3,9 +3,8 @@ title: Courses
 layout: default
 ---
 
-# Courses (2018-21)
 
-Here are some courses I taught in the last couple of years. Click on the course for a brief description and a syllabus.
+## Here are some courses I taught in the last couple of years. Click on the course for a brief description and a syllabus.
 
 <!--Syntax highlighted code block
 
