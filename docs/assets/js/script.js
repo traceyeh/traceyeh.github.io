@@ -44,7 +44,7 @@ $(document).ready(function(){
     }
   });
 
-
+var e = document.getElementById('menu');
 e.onmouseover = function() {
   document.getElementByClass('popup').style.display = 'block';
 }
