@@ -30,21 +30,21 @@ ul{
 }
 
 
-a ~ ul{
+/*a ~ ul{*/
   /*display: none;*/
-  visibility: hidden;
+  /*visibility: hidden;
   text-align: right;
-  margin-left: 3%;
+  margin-left: 3%;*/
 
   /* Position the tooltip */
-  position: absolute;
+  /*position: absolute;
   z-index: 2;
 }
 
 .popup:hover{
   visibility: visible;
   display: inline-block;
-}
+}*/
 
 h1.title {
   margin: 30px 20px 10px;

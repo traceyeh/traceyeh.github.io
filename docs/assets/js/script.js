@@ -44,6 +44,15 @@ $(document).ready(function(){
     }
   });
 
+
+e.onmouseover = function() {
+  document.getElementByClass('popup').style.display = 'block';
+}
+e.onmouseout = function() {
+  document.getElementByClass('popup').style.display = 'none';
+}
+
+
   $(".current-section a").click(function(){
     $(window).scrollTop(0);
     return false;
