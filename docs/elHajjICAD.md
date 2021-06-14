@@ -1,6 +1,6 @@
 ---
 title: NETWORK SONIFICATION AND THE ALGORHYTHMICS OF EVERYDAY LIFE
-layout: default
+layout: index
 header: NETWORK SONIFICATION AND THE ALGORHYTHMICS OF EVERYDAY LIFE
 desc: The sounds of seamless networks from the lab to the livingroom
 ---
