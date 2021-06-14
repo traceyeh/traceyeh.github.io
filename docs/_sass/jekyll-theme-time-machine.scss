@@ -25,6 +25,15 @@ code, pre {
   font-family: 'Monaco', 'Lucida Console', monospace;
 }
 
+nav:hover {
+  font-weight: bold;
+  color: #90D355;
+}
+
+ul~a{
+  display: none;
+}
+
 h1.title {
   margin: 30px 20px 10px;
   font-size: 200%;
@@ -37,7 +46,7 @@ h1.title {
 
 .wrapper {
   width: 50%;
-  margin: 0 auto;
+  margin: -16% auto;
 }
 
 #container {
