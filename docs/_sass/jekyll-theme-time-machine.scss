@@ -34,12 +34,12 @@ a ~ ul{
   /*display: none;*/
   visibility: hidden;
   width: 120px;
-  background-color: black;
-  color: #fff;
-  text-align: center;
+  text-align: right;
   border-radius: 6px;
   padding: 5px 2px;
   margin-left: 2px;
+  margin-top: -1%;
+  
 
   /* Position the tooltip */
   position: absolute;
@@ -48,6 +48,7 @@ a ~ ul{
 
 a:hover ~ ul{
   visibility: visible;
+  display: inline-block;
 }
 
 h1.title {
