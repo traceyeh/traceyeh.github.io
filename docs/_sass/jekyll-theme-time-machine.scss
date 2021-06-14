@@ -34,13 +34,14 @@ a ~ ul{
   /*display: none;*/
   visibility: hidden;
   text-align: right;
+  margin-left: 3%;
 
   /* Position the tooltip */
   position: absolute;
   z-index: 2;
 }
 
-a ~ ul:hover{
+a ~ ul :hover{
   visibility: visible;
   display: inline-block;
 }
