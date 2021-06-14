@@ -3,7 +3,7 @@ title: Conferences
 layout: default
 ---
 
-## Here are some conferences I prensented at in the last couple of years. Click on the conference for a brief description and the presentation (where available).
+ Here are some conferences I prensented at in the last couple of years. Click on the conference for a brief description and the presentation (where available).
 
 <!--Syntax highlighted code block
 
