@@ -41,7 +41,7 @@ a ~ ul{
   z-index: 2;
 }
 
-a ~ ul :hover{
+ul.popup:hover{
   visibility: visible;
   display: inline-block;
 }
