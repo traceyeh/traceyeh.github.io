@@ -50,7 +50,8 @@ ul{
   display: none;
   position: absolute;
   background-color: #63a52a;
-  min-width: 160px;
+  padding: 5px;
+  min-width: 130px;
   box-shadow: 0px 8px 16px 0px rgb(99, 165, 42);
   z-index: 1;
 }
@@ -58,7 +59,6 @@ ul{
 /* Links inside the dropdown */
 .dropdown-content a {
   color: black;
-  padding: 12px 16px;
   text-decoration: none;
   display: block;
 }
