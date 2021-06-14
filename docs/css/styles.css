@@ -84,7 +84,7 @@
 .dropdown:hover .dropdown-content {display: block;}
 
 @media screen and (max-width: 600px) {
-  .dropdown:hover .dropdown-content {display: block;}
+  .dropdown:hover .dropdown-content {display: none;}
 }
 
 /*END TEH CSS*/
