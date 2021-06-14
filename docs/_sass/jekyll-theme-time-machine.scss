@@ -46,7 +46,7 @@ a ~ ul{
   z-index: 2;
 }
 
-a ~ ul:hover{
+a:hover ~ ul{
   visibility: visible;
 }
 
