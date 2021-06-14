@@ -63,9 +63,10 @@
 .dropdown-content {
   display: none;
   position: absolute;
+  list-style: none;
+  color: rgba(255, 255, 255, 0.7);
   /*background-color: #3e8e41;*/
-  /*color: #63a52a;
-  padding: 5px;
+  /*padding: 5px;
   min-width: 130px;
   box-shadow: 0px 8px 16px 0px rgb(99, 165, 42);*/
   z-index: 1;
@@ -10874,7 +10875,7 @@ textarea.form-control-lg {
   }
 }
 body {
-  background-image: url("../assets/img/bg.jpg"); /*linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)),*/
+  background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/img/bg.jpg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
