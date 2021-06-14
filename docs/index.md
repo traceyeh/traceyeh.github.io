@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Tracey El Hajj, PhD
 ---
 
