@@ -11018,8 +11018,10 @@ p {
 }
 
 .poem {
-  color: whitesmoke;
+  color: rgba(255, 255, 255, 0.7);
   position: relative;
+  margin-left: 10rem;
+  opacity: 1;
 }
 
 @media (min-width: 992px) {
