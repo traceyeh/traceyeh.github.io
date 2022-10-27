@@ -11016,6 +11016,12 @@ p {
 .intro {
   position: relative;
 }
+
+.poem {
+  color: whitesmoke;
+  position: relative;
+}
+
 @media (min-width: 992px) {
   .intro .intro-img {
     width: 75%;
