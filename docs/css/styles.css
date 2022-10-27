@@ -11018,10 +11018,20 @@ p {
 }
 
 .poem {
-  color: rgba(255, 255, 255, 0.7);
+  background-color: #f6e1c5;
+  opacity: 0.85;
+  color: #212529;
   position: relative;
-  margin-left: 10rem;
-  opacity: 1;
+  padding: 1rem !important;
+  text-align: center;
+  font-weight: 500;
+}
+
+.poetry{
+  list-style-type: none !important;
+  text-decoration: none !important;
+  text-decoration: none !important;
+  font-weight: 650;
 }
 
 @media (min-width: 992px) {
