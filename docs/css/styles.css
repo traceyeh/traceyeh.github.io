@@ -11023,13 +11023,17 @@ p {
   color: #212529;
   position: relative;
   padding: 1rem !important;
-  text-align: center;
+  /*text-align: center;*/
+  text-align: ;
   font-weight: 500;
+}
+
+.poem p{
+  margin-left: 10rem;
 }
 
 .poetry{
   list-style-type: none !important;
-  text-decoration: none !important;
   text-decoration: none !important;
   font-weight: 650;
 }
